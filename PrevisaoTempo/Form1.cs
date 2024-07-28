@@ -9,6 +9,10 @@ namespace PrevisaoTempo
 {
     public partial class Form1 : Form
     {
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
         public Form1()
         {
             InitializeComponent();
@@ -58,11 +62,6 @@ namespace PrevisaoTempo
                 return str;
 
             return char.ToUpper(str[0]) + str.Substring(1);
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
