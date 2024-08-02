@@ -24,3 +24,16 @@ C:\Users\dell\Documents\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTem
 C:\Users\dell\Documents\previsaotempo-csharp\PrevisaoTempo\obj\Debug\Previsao.77D8EE10.Up2Date
 C:\Users\dell\Documents\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.exe
 C:\Users\dell\Documents\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.pdb
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe.config
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\bin\Debug\PrevisaoTempo.pdb
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\bin\Debug\Newtonsoft.Json.dll
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\bin\Debug\Newtonsoft.Json.xml
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.AssemblyReference.cache
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.Form1.resources
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.Properties.Resources.resources
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.GenerateResource.cache
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.CoreCompileInputs.cache
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\Previsao.77D8EE10.Up2Date
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.exe
+E:\pessoal\projetos\cs\previsaotempo-csharp\PrevisaoTempo\obj\Debug\PrevisaoTempo.pdb

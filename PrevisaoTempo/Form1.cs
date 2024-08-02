@@ -39,8 +39,8 @@ namespace PrevisaoTempo
                 labPressao.Text = Info.main.pressure.ToString();
 
                 labTempAtual.Text = (Info.main.temp - 273.15).ToString("0.0") + " °C";
-                labTempMax.Text = "↓ " + (Info.main.temp_max - 273.15).ToString("0.0") + " °C";
-                labTempMin.Text = "↑ " + (Info.main.temp_min - 273.15).ToString("0.0") + " °C";
+                labTempMin.Text = "↓ " + (Info.main.temp_min - 273.15).ToString("0.0") + " °C";
+                labTempMax.Text = "↑ " + (Info.main.temp_max - 273.15).ToString("0.0") + " °C";
             }
         }
 

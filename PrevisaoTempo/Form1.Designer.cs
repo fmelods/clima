@@ -216,7 +216,7 @@
             this.labTempMax.BackColor = System.Drawing.Color.Transparent;
             this.labTempMax.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labTempMax.ForeColor = System.Drawing.Color.White;
-            this.labTempMax.Location = new System.Drawing.Point(427, 327);
+            this.labTempMax.Location = new System.Drawing.Point(577, 327);
             this.labTempMax.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.labTempMax.Name = "labTempMax";
             this.labTempMax.Size = new System.Drawing.Size(39, 23);
@@ -229,7 +229,7 @@
             this.labTempMin.BackColor = System.Drawing.Color.Transparent;
             this.labTempMin.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labTempMin.ForeColor = System.Drawing.Color.White;
-            this.labTempMin.Location = new System.Drawing.Point(552, 327);
+            this.labTempMin.Location = new System.Drawing.Point(452, 327);
             this.labTempMin.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.labTempMin.Name = "labTempMin";
             this.labTempMin.Size = new System.Drawing.Size(39, 23);
